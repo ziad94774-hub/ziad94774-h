@@ -6,12 +6,12 @@
   <details>
     <summary><strong> Busy coding & Vibing to :</strong></summary>
     <p>
-      <!-- يمكنك استبدال رابط سبوتيفاي الخاص بك هنا -->
+      
       <a href="#"><img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify"/></a>
     </p>
   </details>
 
-  <!-- عدّلت اسم المستخدم في شارات الزيارات إلى اسم افتراضي - عدّله إذا اسمك على GitHub مختلف -->
+  
   ![Totals Hits](https://komarev.com/ghpvc/?username=Ziad-AlAsadi&style=flat&color=orange&label=PROFILE+VIEWS)
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZiad-AlAsadi&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
   <a href="#"><img src="https://img.shields.io/badge/Ziad-grey?style=flat&logo=telegram" alt="telegram badge"/></a>
@@ -20,7 +20,7 @@
 
 <hr/>
 
-<!-- أدوات ومهارات -->
+
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
 ```html
-<!-- مثال منسق صغير يظهر أدواتي بطريقة برمجية -->
+
 <pre><code>// tools_I_use organized 
 
 class About extends Me { 
